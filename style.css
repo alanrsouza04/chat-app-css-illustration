@@ -28,7 +28,7 @@ main{
     position: fixed;
     display: flex;
     width: 300px;
-    height: 75vh;
+    height: 70vh;
     margin-bottom: 50px;
     flex-direction: column;
     margin-left: 330px;
